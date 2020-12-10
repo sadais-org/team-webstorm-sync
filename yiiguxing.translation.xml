@@ -1,5 +1,7 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="1121" />
+    <option name="newTranslationDialogY" value="610" />
     <histories>
       <item value="checkbox" />
     </histories>
@@ -12,5 +14,9 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1607326926486" />
+  </component>
+  <component name="Settings">
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
   </component>
 </application>
