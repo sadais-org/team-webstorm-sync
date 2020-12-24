@@ -3,7 +3,7 @@
     <property name="created">2020-08-04T15:28:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-12-24T09:34:46</property>
+    <property name="modified">2020-12-24T09:54:55</property>
     <property name="originalScheme">VibrantInk</property>
   </metaInfo>
   <colors>
@@ -806,27 +806,77 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="121205" />
+        <option name="BACKGROUND" value="9090a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="91209" />
+        <option name="BACKGROUND" value="80a0a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="120912" />
+        <option name="BACKGROUND" value="a0b09" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="61111" />
+        <option name="BACKGROUND" value="b0a09" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="b0808" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="b0707" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_7_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="270a0a" />
+        <option name="BACKGROUND" value="c0303" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="802020" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -918,7 +968,7 @@
     <option name="JS.COMMA">
       <value />
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="979748" />

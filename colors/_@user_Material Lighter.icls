@@ -4,7 +4,7 @@
     <property name="created">2020-12-03T17:08:57</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-24T09:34:45</property>
+    <property name="modified">2020-12-24T09:54:55</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1101,27 +1101,77 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fbfbe4" />
+        <option name="BACKGROUND" value="f7f7f9" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="afafaf" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="ebfbeb" />
+        <option name="BACKGROUND" value="f6f9f8" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="afafaf" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fbebfb" />
+        <option name="BACKGROUND" value="f9f9f7" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="afafaf" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="e5f8f8" />
+        <option name="BACKGROUND" value="faf8f7" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="afafaf" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="faf6f6" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="afafaf" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="faf4f5" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="afafaf" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_7_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="afafaf" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d5b8b8" />
+        <option name="BACKGROUND" value="efe6e6" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="802020" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

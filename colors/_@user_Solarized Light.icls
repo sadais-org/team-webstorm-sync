@@ -1,11 +1,11 @@
-<scheme name="_@user_Material Solarized Light" version="142" parent_scheme="Default">
+<scheme name="_@user_Solarized Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-12-03T17:08:57</property>
+    <property name="created">2020-12-24T09:52:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
     <property name="modified">2020-12-24T09:54:55</property>
-    <property name="originalScheme">Material Solarized Light</property>
+    <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -58,7 +58,7 @@
     <option name="FILESTATUS_UNKNOWN" value="d33682" />
     <option name="FILESTATUS_addedOutside" value="d33682" />
     <option name="FILESTATUS_changelistConflict" value="cb4b16" />
-    <option name="FILESTATUS_modifiedOutside" value="6c71c4" />
+    <option name="FILESTATUS_modifiedOutside" value="2aa198" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="eee8d5" />
     <option name="GUTTER_BACKGROUND" value="fdf6e3" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dc322f" />
@@ -1264,19 +1264,9 @@
         <option name="BACKGROUND" value="faf4e3" />
       </value>
     </option>
-    <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
-      <value>
-        <option name="BACKGROUND" value="b1ac9e" />
-      </value>
-    </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
         <option name="BACKGROUND" value="f9f5e2" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
-      <value>
-        <option name="BACKGROUND" value="b1ac9e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
@@ -1284,19 +1274,9 @@
         <option name="BACKGROUND" value="fbf6e2" />
       </value>
     </option>
-    <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
-      <value>
-        <option name="BACKGROUND" value="b1ac9e" />
-      </value>
-    </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
         <option name="BACKGROUND" value="fdf4e1" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
-      <value>
-        <option name="BACKGROUND" value="b1ac9e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -1304,34 +1284,14 @@
         <option name="BACKGROUND" value="fdf2e0" />
       </value>
     </option>
-    <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
-      <value>
-        <option name="BACKGROUND" value="b1ac9e" />
-      </value>
-    </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
         <option name="BACKGROUND" value="fdf1df" />
       </value>
     </option>
-    <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
-      <value>
-        <option name="BACKGROUND" value="b1ac9e" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_7_CUSTOM">
-      <value>
-        <option name="BACKGROUND" value="b1ac9e" />
-      </value>
-    </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
         <option name="BACKGROUND" value="f2e3d1" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_ERROR_CUSTOM">
-      <value>
-        <option name="BACKGROUND" value="802020" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1685,12 +1645,6 @@
       <value>
         <option name="FOREGROUND" value="657b83" />
         <option name="BACKGROUND" value="bbd3e2" />
-      </value>
-    </option>
-    <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LOCALE.LINE_COMMENT">
@@ -3328,11 +3282,6 @@
     <option name="REASONML_OPTION">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
-      </value>
-    </option>
-    <option name="REGEXP_MATCHED_GROUPS">
-      <value>
-        <option name="BACKGROUND" value="bec9db" />
       </value>
     </option>
     <option name="REST.BOLD">
