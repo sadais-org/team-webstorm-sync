@@ -3,7 +3,7 @@
     <property name="created">2020-08-04T15:28:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-12-24T09:31:17</property>
+    <property name="modified">2020-12-24T09:34:45</property>
     <property name="originalScheme">All hallow's eve</property>
   </metaInfo>
   <colors>
@@ -404,14 +404,14 @@
         <option name="FOREGROUND" value="c83730" />
       </value>
     </option>
-    <option name="DEFAULT_FUNCTION_DECLARATION" baseAttributes="" />
+    <option name="DEFAULT_FUNCTION_DECLARATION" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER" baseAttributes="" />
-    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="" />
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="DEFAULT_KEYWORD">
       <value>
@@ -423,7 +423,7 @@
         <option name="FOREGROUND" value="9933cc" />
       </value>
     </option>
-    <option name="DEFAULT_METADATA" baseAttributes="" />
+    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="3387cc" />
@@ -446,7 +446,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_STATIC_METHOD" baseAttributes="" />
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="66cc33" />
