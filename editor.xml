@@ -32,7 +32,6 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
