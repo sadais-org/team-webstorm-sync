@@ -3,7 +3,7 @@
     <property name="created">2020-08-04T15:28:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-12-29T10:24:04</property>
+    <property name="modified">2020-12-29T16:32:34</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -1073,7 +1073,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JADE_JS_BLOCK" baseAttributes="" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JADE_STATEMENTS">
       <value>
         <option name="FOREGROUND" value="c678dd" />
@@ -1934,7 +1934,7 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="d19a66" />
