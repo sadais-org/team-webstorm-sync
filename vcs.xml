@@ -6,6 +6,10 @@
           <option name="url" value="http://git.sadais.com:8080" />
           <option name="userName" value="zhangzhenfei" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.16.44.29" />
+          <option name="userName" value="zhangzhenfei" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
